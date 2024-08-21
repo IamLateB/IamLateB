@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IamLateB from Tampere
-- 👀 I’m interested in keyboards, cad and 3D-printing
+- 👀 I’m interested in keyboards, CAD and 3D-printing
 - 🌱 I’m currently learning meyboard structural design
 - ⚡ Fun fact: I built a guitar out of a cigar box at 13 years old
 
